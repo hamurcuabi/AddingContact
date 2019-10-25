@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">AddContactList</string>
+    <string name="app_name">Contacter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome!</string>
+    <string name="hope_you_enjoy_the_stay">Hope you enjoy the stay</string>
+    <string name="user_name">User name</string>
+    <string name="sign_up_for_an_account">Sign up for an account?</string>
+    <string name="phone">Phone</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="no_items_found_text">Contact Not Found</string>
+    <string name="select_all">Select All</string>
+    <string name="search">Search</string>
+    <string name="export_csv">Export Csv</string>
+    <string name="export_pdf">Export Pdf</string>
+    <string name="sure">Are you sure?</string>
+    <string name="no_item_found">Contacts not found</string>
+    <string name="no_item_selected_found">Not found selected item</string>
+    <string name="permission">Need Permission</string>
+    <string name="import_csv">İmport Csv</string>
+    <string name="open_csv">Open Csv</string>
+    <string name="all_contacts">All Contacts</string>
+
 </resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883426385536",
+    "firebase_url": "https://contacter-f9448.firebaseio.com",
+    "project_id": "contacter-f9448",
+    "storage_bucket": "contacter-f9448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883426385536:android:c0c8861d78874e97505065",
+        "android_client_info": {
+          "package_name": "com.emrhmrc.addcontactlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883426385536-19gulivd22ns0s9tikgli1a3u0vfvnev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emrhmrc.addcontactlist",
+            "certificate_hash": "f08539b5d2685d6574208cc875f086d036438704"
+          }
+        },
+        {
+          "client_id": "883426385536-aoi6n12b8rolss0mfhu8m3jkmji20jua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsF8s7EUbkLAuqI2BKmkrvsyCXBycpt3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883426385536-aoi6n12b8rolss0mfhu8m3jkmji20jua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

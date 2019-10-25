@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Contacter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="welcome">Merhaba!</string>
+    <string name="hope_you_enjoy_the_stay">Hope you enjoy the stay</string>
+    <string name="user_name">User name</string>
+    <string name="sign_up_for_an_account">Sign up for an account?</string>
+    <string name="phone">Telefon</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="no_items_found_text">Kişi Bulunamadı</string>
+    <string name="select_all">Hepsini Seç</string>
+    <string name="search">Ara</string>
+    <string name="export_csv">Csv dışa aktar </string>
+    <string name="export_pdf">Export Pdf</string>
+    <string name="sure">Emin misiniz?</string>
+    <string name="no_item_found">Kişi Bulunamadı</string>
+    <string name="no_item_selected_found">Seçili kişi bulunamadı</string>
+    <string name="permission">İzinleri vermelisiniz</string>
+    <string name="import_csv">Csv İçe Aktar</string>
+    <string name="open_csv">Csv Aç</string>
+    <string name="all_contacts">Kişiler</string>
+
+</resources>
